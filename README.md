@@ -13,6 +13,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/Osomudeya/clearledger)
 ![Repo size](https://img.shields.io/github/repo-size/Osomudeya/clearledger)
 ![Open issues](https://img.shields.io/github/issues/Osomudeya/clearledger)
+[![Downloads](https://img.shields.io/github/downloads/Osomudeya/clearledger/total)](https://github.com/Osomudeya/clearledger/releases)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Osomudeya.clearledger)](https://github.com/Osomudeya/clearledger)
 
 # ClearLedger DevSecOps Lab
