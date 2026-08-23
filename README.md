@@ -114,6 +114,8 @@ Keep them separate, this separation is the GitOps pattern you're learning.
 
 See [QUICKSTART.md](./QUICKSTART.md): up and running in under 10 commands.
 
+Prefer reading the walkthrough offline? The companion ebook is this lab in book form: [ClearLedger DevSecOps Lab](https://osomudeya.gumroad.com/l/devsecops-lab).
+
 Finished the lab? See [SHOWCASE.md](./SHOWCASE.md): how to screenshot, post on LinkedIn, and talk about it in interviews.
 
 ## See It Working in 5 Minutes
@@ -226,6 +228,8 @@ These are guided ebooks — the same mental model behind ClearLedger, built from
 See [docs/LAB-GUIDE.md](./docs/LAB-GUIDE.md) for the full walkthrough;
 what each stage teaches, what to verify, and the exact moment each
 concept clicks.
+
+If you would rather read it as a book (PDF / offline), that walkthrough is also the companion ebook: [ClearLedger DevSecOps Lab](https://osomudeya.gumroad.com/l/devsecops-lab).
 
 ## License
 
